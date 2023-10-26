@@ -1,7 +1,6 @@
-### Hi there 👋 
-### My name is Matthew Xu
+## Hi there 👋 My name is Matthew Xu
 
-# 🛠 Languages and Tools :
+### 🛠 Languages and Tools :
 JavaScript, Python, React, Redux, Nodejs, Flask, Expressjs, Sequelize, SQLAlchemy, Docker, AWS, WebSocket, HTML, CSS, SQL
 
 [Find me in linkedin](www.linkedin.com/in/matthew-xu-3360a5176)
