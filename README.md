@@ -7,8 +7,11 @@ JavaScript, Python, React, Redux, Nodejs, Flask, Expressjs, Sequelize, SQLAlchem
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt7xu&layout=compact&theme=tokyonight)
 
-Sometimes I ask myself what is the difference between == and === in javascript? Well, with == I kind of guess, but with === I'm really sure I love coding. I enjoy the process of problem solving. I found learning new things and solving problems satisfying.
+Sometimes I ask myself what is the difference between == and === in javascript? Well, with == I kind of guess, but with === I'm really sure I love coding.<br>
+I enjoy the process of problem solving. I found learning new things and solving problems satisfying.
+<br>
 At work, I enjoy working as a team. Being positive and supportive to other people.
+<br>
 If I am not in front of my laptop, I am properly busy finding good food in the city.
 
 
